@@ -1,0 +1,34 @@
+body {    
+    background-image: url("Image/program.jpg");
+   font-family: sans-serif;
+   
+}
+h1, h2, h3, ul, h4, img, section, p{
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+.menu{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgreen;
+}
+.footer{
+    font-size: 14px;
+}
+a {
+    color:blueviolet;
+}
+
+a:visited{
+    color: blueviolet;
+}
+a:active{
+    color: crimson;
+}
+a:hover{
+    color: crimson;
+}
+
