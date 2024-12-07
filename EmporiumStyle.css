@@ -1,10 +1,15 @@
 body {    
-    background-image: url("Image/program.jpg");
+    background-color: rgb(75, 34, 0);
    font-family: sans-serif;
    
 }
 h1, h2, h3, ul, h4, img, section, p{
     text-align: center;
+    font-size:larger;
+}
+h3, ul, li{
+    
+    padding: 15px;
 }
 footer {
     text-align: center;
@@ -19,11 +24,11 @@ footer {
     font-size: 14px;
 }
 a {
-    color:blueviolet;
+    color:blue;
 }
 
 a:visited{
-    color: blueviolet;
+    color: blue;
 }
 a:active{
     color: crimson;
